@@ -1,0 +1,7 @@
+*.log
+*.bak
+*.exe
+*.tfstate
+*.tfstate.*
+*.terraform
+*.terraform.*
